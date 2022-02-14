@@ -37,6 +37,18 @@
             <category>docusaurus</category>
         </item>
         <item>
+            <title><![CDATA[R语言极大似然估计]]></title>
+            <link>https://StarDxxx.github.io/Star/blog/极大似然估计</link>
+            <guid>极大似然估计</guid>
+            <pubDate>Sun, 07 Feb 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[极大似然估计]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_mojV" id="极大似然估计">极大似然估计<a class="hash-link" href="#极大似然估计" title="标题的直接链接">​</a></h2><h3 class="anchor anchorWithStickyNavbar_mojV" id="如何计算">如何计算<a class="hash-link" href="#如何计算" title="标题的直接链接">​</a></h3>]]></content:encoded>
+            <category>r</category>
+            <category>极大似然估计</category>
+            <category>指数分布</category>
+            <category>生存分析</category>
+        </item>
+        <item>
             <title><![CDATA[Apriori算法实现]]></title>
             <link>https://StarDxxx.github.io/Star/blog/Apriori</link>
             <guid>Apriori</guid>

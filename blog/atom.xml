@@ -57,6 +57,22 @@
         <category label="docusaurus" term="docusaurus"/>
     </entry>
     <entry>
+        <title type="html"><![CDATA[R语言极大似然估计]]></title>
+        <id>极大似然估计</id>
+        <link href="https://StarDxxx.github.io/Star/blog/极大似然估计"/>
+        <updated>2021-02-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[极大似然估计]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_mojV" id="极大似然估计">极大似然估计<a class="hash-link" href="#极大似然估计" title="标题的直接链接">​</a></h2><h3 class="anchor anchorWithStickyNavbar_mojV" id="如何计算">如何计算<a class="hash-link" href="#如何计算" title="标题的直接链接">​</a></h3>]]></content>
+        <author>
+            <name>郭东星</name>
+            <uri>https://github.com/StarDxxx</uri>
+        </author>
+        <category label="r" term="r"/>
+        <category label="极大似然估计" term="极大似然估计"/>
+        <category label="指数分布" term="指数分布"/>
+        <category label="生存分析" term="生存分析"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Apriori算法实现]]></title>
         <id>Apriori</id>
         <link href="https://StarDxxx.github.io/Star/blog/Apriori"/>
